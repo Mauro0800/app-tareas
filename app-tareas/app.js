@@ -40,8 +40,8 @@ switch(comando){
             console.log("--------------------------------------");
             console.log("No entiendo qué quieres hacer.");
             console.log( "Las Acciones disponibles son: listar, crear y filtrar");
+            console.log("hola");
             console.log("--------------------------------------");
         break;
 }
-
 
