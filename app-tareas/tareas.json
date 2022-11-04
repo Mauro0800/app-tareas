@@ -1,0 +1,26 @@
+[
+   {
+      "titulo": "Deberes",
+      "estado": "terminada"
+   },
+   {
+      "titulo": "Sacar la basura",
+      "estado": "pendiente"
+   },
+   {
+      "titulo": "Lavar los platos",
+      "estado": "en proceso"
+   },
+   {
+      "titulo": "Hacer la cama",
+      "estado": "en proceso"
+   },
+   {
+      "titulo": "Barrer",
+      "estado": "terminada"
+   },
+   {
+      "titulo": "completar PG",
+      "estado": "en proceso"
+   }
+]
